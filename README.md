@@ -14,3 +14,5 @@ http://bbs.keinsci.com/thread-25516-1-1.html
 4 耐心等待安装即可（中途可能需要输入密码或摁enter键，请按照终端输出要求操作）
 
 已在Windows1o 19045.4894下的WSL2 Ubuntu测试
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14738589.svg)](https://doi.org/10.5281/zenodo.14738589)
