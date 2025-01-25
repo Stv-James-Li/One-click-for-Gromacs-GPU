@@ -18,6 +18,6 @@ http://bbs.keinsci.com/thread-25516-1-1.html
 
 5 安装结束后如果出现报错，需要手动进入.bashrc文件将包含空格的export行加上双引号
 
-已在Windows1o 19045.4894下的WSL2 Ubuntu测试
+已在Windows1o 19045.4894下的WSL2 Ubuntu测试，测试视频https://www.bilibili.com/video/BV1HzffYtERD
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14738589.svg)](https://doi.org/10.5281/zenodo.14738589)
