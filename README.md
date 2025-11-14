@@ -41,6 +41,4 @@ http://bbs.keinsci.com/thread-25516-1-1.html
   [1]: https://blog.nebulatown.com
   [2]: https://synbio.nebulatown.com/usr/uploads/2025/01/830716201.bsh
 
-已在Windows1o 19045.4894下的WSL2 Ubuntu测试，测试视频https://www.bilibili.com/video/BV1HzffYtERD
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14738589.svg)](https://doi.org/10.5281/zenodo.14738589)
